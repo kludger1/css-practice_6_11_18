@@ -1,0 +1,92 @@
+/*Question 1 */.logo { 
+    color:red;
+}
+
+/* Question 2 */
+nav a{
+    color: green;
+    
+}
+/* Question 3 */
+ nav a:visited{
+    color:#444;
+}
+/* Question 4 */
+.card{
+    color:white;
+}
+/* Question 5 */
+.card button{
+    background-color: lightgreen;
+    color: white;
+}
+/* Question 6 */
+P::first-letter{
+font-size: 30px;
+
+}
+/* Question 7 */
+.blog{
+    background-color: #666;
+    color: #cff;
+}
+/* Question 8 */
+ .gallery figure:hover{
+     box-shadow: 5px 10px #444;
+ }
+/* Question 9 */
+  figcaption {
+     padding: 8px 8px 8px 8px
+ }
+
+ /* Question 11 */
+ .blog-article{
+   margin-top: 40px;
+   max-width: 800px;
+   margin-left: auto;
+   margin-right:auto;
+
+ }
+/* Question 12 */
+ .article-title {
+     text-align: center;
+ }
+/* Question 13 */
+ .section-header{
+     text-transform: uppercase
+ }
+
+
+/* Question 14-16 */
+ .form-input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding:5px;
+}
+
+/* Question 17 */
+footer {
+color: #ffc266;
+background-color: rgb(68,65,65);
+}
+
+/* Question 18 */
+.form-input:focus{
+border-width: 4px;
+
+}
+
+/* Question 19 */
+section h2::before {
+   content:">";
+   margin-right: 4px;
+}
+
+/* Question 20 */
+input[type="radio"]{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+
